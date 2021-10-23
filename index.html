@@ -44,7 +44,7 @@
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
                               <h4><a href="#">MetaMask one click and add</a></h4>
-                                <button class="connectMetaMask">Enable Binance Smart Chain & Add CDS</button>
+                                <button class="connectMetaMask">Enable Binance Smart Chain & Add wEGG</button>
                             </div>
                           </li>
                         </ul>
