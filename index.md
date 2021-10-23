@@ -4,17 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name = "keywords" content = "Crypto, CDS, Crypto Development Services" />
-    <meta name = "description" content = "Crypto Development Services" />
+    <meta name = "keywords" content = "Crypto, WEGG, Wrapped NestEGG Coin" />
+    <meta name = "description" content = "Wrapped NestEGG Coin" />
 	  
     
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.cryptodevservices.com/" />
-    <meta property="og:image" content="https://www.cryptodevservices.com/images/favicon/favicon.png" />
-    <meta property="og:description" content="CDS stands for Crypto Development Services, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Crypto Development Services and logo" />
+    <meta property="og:image" content="https://cryptodevelopmentservices.github.io/wEGG_MetaMask_Connector/imgfavicon.png" />
+    <meta property="og:description" content="wEGG stands for Wrapped NestEGG Coin, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Wrapped NestEGG Coin and logo" />
 
-    <title>Crypto Development Services - Metamask Connector</title>
+    <title>Wrapped NestEGG Coin - Metamask Connector</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -37,7 +37,7 @@
               <div class="tm-section-wrap">
                 <section id="intro" class="tm-section">
                     <div class="tm-bg-grey-transparent tm-intro">
-                      <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">Get connected to the Binance Smart Chain Network and add Crypto Development Services</h2>
+                      <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">Get connected to the Binance Smart Chain Network and add Wrapped NestEGG Coin</h2>
                         <ul class="list-steps">
                           <li class="list-steps__item wow fadeInLeftSmall" data-wow-delay=".1s">
                             <div class="list-steps__item-counter"></div>
