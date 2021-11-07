@@ -50,12 +50,29 @@
                         </ul>
                     </div>
                 </section>
+                <!-- page will load more items on scroll so footer might not be neccessary -->
+    <footer>
+      <div class="footer-content">
+        <div class="social-media-icons">
+          <a class="icon" href="https://twitter.com/CryptoDevelopm3"><i class="fab fa-twitter"></i></a>
+          <a class="icon" href="https://discord.gg/xUZNT9Zzcp"><i class="fab fa-discord"></i></a>
+          <a class="icon" href="https://github.com/CryptoDevelopmentServices/wEGG_MetaMask_Connector"><i class="fab fa-github"></i></a>
+        </div>
+
+        <div class="company-name">
+          <span>Created by <a href="https://www.cryptodevservices.com/" target="_blank">Crypto Development Services <img src="./img/cds.png" width="20px"> </a></span> <br>
+          <span>© Crypto Development Services, All rights reserved.</span>
+        </div>
+
+      </div>
+    </footer>
             </div>
           </div>
 
         </main>
       </div>
     </div>
+    
     <script src="js/jquery.min.js"></script>
     <!-- <script src="js/jquery.singlePageNav.min.js"></script> -->
     <script src="js/parallax.min.js"></script>
